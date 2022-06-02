@@ -1,2 +1,2 @@
 # Video_Classification_Project
-A video classification project
+Developing a video classification and segmentation App using CNN
